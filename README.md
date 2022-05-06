@@ -1,1 +1,1 @@
-# Excel-CSV-Split-by-Group-and-Email
+# Excel-CSV-Split-by-Group-and-then-Email
