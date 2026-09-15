@@ -1,4 +1,4 @@
-# Excel-CSV-Split-by-Group-and-Email
+﻿# Excel-CSV-Split-by-Group-and-Email
 
 Split a CSV into separate files by values in a grouping column, then email each file to the matching recipient.
 
@@ -17,7 +17,7 @@ Built for a recurring behavioral health ops workflow: twice daily, a missing-not
 | File | Purpose |
 |------|---------|
 | `Splt CSV by Group and Email.ipynb` | Main workflow |
-| `email and file list.xlsx` | Sample filename → email mapping (placeholder addresses) |
+| `email and file list.xlsx` | Sample filename â†’ email mapping (placeholder addresses) |
 
 ## Requirements
 
@@ -36,4 +36,5 @@ Do not commit real patient data or production email directories. The sample mapp
 
 ## License
 
-No license file is currently published in this repository. Contact the author if you need reuse terms.
+MIT License — see [LICENSE](LICENSE).
+
